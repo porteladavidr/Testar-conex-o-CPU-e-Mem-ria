@@ -1,4 +1,4 @@
-# Testar-conex-o-CPU-e-Mem-ria
+# Testar Conexão, Memória e CPU Powershell
 Powershell focado em testar a conexão com um determinado host e o uso de CPU e Memória do client no momento do teste
 
 O PowerShell em questão tem a seguinte utilidade:
