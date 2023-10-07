@@ -4,7 +4,6 @@
 #####   DATA DA CRIAÇÃO:        04/05/2023
 #####   DATA DA MODIFICAÇÃO:    Sem modificações
 #####   ESCRITO POR:            David Portela
-#####   PROJETO:                http://10.1.2.50/tactium/automacoes
 
 <#
 .SINOPSE
